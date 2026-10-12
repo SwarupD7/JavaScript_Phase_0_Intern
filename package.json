@@ -1,0 +1,8 @@
+{
+  "name": "javascript-phase-0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check assignments/js-00-environment/index.js"
+  }
+}
